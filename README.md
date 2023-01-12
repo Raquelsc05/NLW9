@@ -15,4 +15,8 @@ Projeto construído do evento next level do Rocketseat
 -Git
 -Github
 
+## Novidades
+- Uso de keyframes para animação CSS
+- Gradiente com CSS
+
 
